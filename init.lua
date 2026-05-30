@@ -1,3 +1,4 @@
+-- put in ~/.config/nvim/init.lua
 -- Enable relative and absolute line numbers
 vim.opt.number = true
 vim.opt.relativenumber = true
